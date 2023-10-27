@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TresArrayListVacios",
+            "request": "launch",
+            "mainClass": "TresArrayListVacios",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "CambiarElementos",
+            "request": "launch",
+            "mainClass": "CambiarElementos",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ArrayNumerosValores",
+            "request": "launch",
+            "mainClass": "ArrayNumerosValores",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "MostrarElUltimoElemento",
+            "request": "launch",
+            "mainClass": "MostrarElUltimoElemento",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "MostrarElPrimerElemento",
+            "request": "launch",
+            "mainClass": "MostrarElPrimerElemento",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "NombresAlfabeticos",
+            "request": "launch",
+            "mainClass": "NombresAlfabeticos",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ArrayListCadena",
+            "request": "launch",
+            "mainClass": "ArrayListCadena",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "AñadirNombre",
+            "request": "launch",
+            "mainClass": "AñadirNombre",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "EliminarArrayList",
+            "request": "launch",
+            "mainClass": "EliminarArrayList",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "DuplicarArray",
+            "request": "launch",
+            "mainClass": "DuplicarArray",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "RecorrerArrayList",
+            "request": "launch",
+            "mainClass": "RecorrerArrayList",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "EncontrarNombre",
+            "request": "launch",
+            "mainClass": "EncontrarNombre",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ArrayListVacio",
+            "request": "launch",
+            "mainClass": "ArrayListVacio",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "VerificarArrayListVacio",
+            "request": "launch",
+            "mainClass": "VerificarArrayListVacio",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "EliminarNombre",
+            "request": "launch",
+            "mainClass": "EliminarNombre",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "CambiarElNombre",
+            "request": "launch",
+            "mainClass": "CambiarElNombre",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "MostrarElTercerNumero",
             "request": "launch",
             "mainClass": "MostrarElTercerNumero",
