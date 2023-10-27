@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MostrarElTercerNumero",
+            "request": "launch",
+            "mainClass": "MostrarElTercerNumero",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "EliminarNumerosPares",
+            "request": "launch",
+            "mainClass": "EliminarNumerosPares",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "EncontrarNumeroMasGrande",
             "request": "launch",
             "mainClass": "EncontrarNumeroMasGrande",
