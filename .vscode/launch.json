@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EncontrarNumeroMasGrande",
+            "request": "launch",
+            "mainClass": "com.example.EncontrarNumeroMasGrande",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.example.Main",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "TresArrayListVacios",
             "request": "launch",
             "mainClass": "TresArrayListVacios",
